@@ -1,12 +1,10 @@
-# TODO: Replace with the name of the repo
+# DIY Raman spectroscopy for biological research
 
 [![run with conda](https://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://docs.conda.io/projects/miniconda/en/latest/)
 
-Note: Analysis repo names should be prefixed with the year (ie `2024-noveltree-analysis`)
-
 ## Purpose
 
-TODO: Briefly describe the core analyses performed in the repository and the motivation behind them.
+This repository accompanies the pub, "DIY Raman spectroscopy for biological research." It contains the data acquired and analyzed in this effort, Jupyter notebooks for calibration and figure generation, and a summary of data from the spectral library.
 
 ## Installation and Setup
 
@@ -41,11 +39,19 @@ conda activate <NAME>
 
 ## Data
 
-TODO: Add details about the description of input / output data and links to Zenodo depositions, if applicable.
+The data shared here is collected on the DIY spontaneous Raman system at Arcadia Science, which is the OpenRaman Starter Edition (532 nm excitation), originally created by Luc B (https://www.open-raman.org/about/). The input files are the raw data in CSV format collected from a range of biological research samples that are in the Arcadia spectral library and calibration standards. The outputs include calibration equations for each acquisition day, calibrated data with additional pre-processing, quick look graphs for each sample's data, and performance metrics for the system. 
 
 ## Overview
 
 ### Description of the folder structure
+
+* [input_data/](./input_data/): Data for each sample presented in the pub.
+* [output_data/](./output_data/): Calibrated and processed data presented in the pub, as well as graphs for each sample's data. 
+* [notebooks/](./notebooks/): Jupyter notebooks for applying calibration correction to acquired data and plotting it to generate the figures shown in the pub. 
+* [envs/](./envs): This repository uses conda to manage software installations and versions. 
+* [`LICENSE`](./LICENSE): License specifying the re-use terms for the code in this repository.
+* [`README.md`](./README.md): File outlining the contents of this repository and how to use them.
+* * [.github/](./.github), [.vscode/](./.vscode), [.gitignore](./.gitignore), [.pre-commit-config.yaml](./.pre-commit-config.yaml), [Makefile](./Makefile), [pyproject.toml](./Makefile): Files that control the development environment of the repository.
 
 ### Methods
 
@@ -60,7 +66,7 @@ TODO: Include a brief, step-wise overview of analyses performed.
 
 ### Compute Specifications
 
-TODO: Describe what compute resources were used to run the analysis. For example, you could list the operating system, number of cores, RAM, and storage space.
+We executed this project on an Apple MacBook Pro machine running macOS Sonoma version 14.5. The machine has 36 GB memory and an Apple M3 Max chip, though these configurations is not required for running the calibration and analysis. 
 
 ## Contributing
 
