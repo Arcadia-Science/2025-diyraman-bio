@@ -45,8 +45,7 @@ The data shared here is collected on the DIY spontaneous Raman system at Arcadia
 
 ### Description of the folder structure
 
-* [input_data/](./input_data/): Data for each sample presented in the pub.
-* [output_data/](./output_data/): Calibrated and processed data presented in the pub, as well as graphs for each sample's data. 
+* [data/](./data/): Data for each sample presented in the pub. It contains folders for raw data (meaning as acquired on the spectrometer) and processed (meaning calibrated or otherwise modified) These are organized into subfolders for each date. 
 * [notebooks/](./notebooks/): Jupyter notebooks for applying calibration correction to acquired data and plotting it to generate the figures shown in the pub. 
 * [envs/](./envs): This repository uses conda to manage software installations and versions. 
 * [`LICENSE`](./LICENSE): License specifying the re-use terms for the code in this repository.
