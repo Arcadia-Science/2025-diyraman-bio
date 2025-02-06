@@ -4,7 +4,20 @@ channels:
   - defaults
 dependencies:
   - jupyter=1.0.0
-  - pip=23.2.1
+  - pip=24.0
   - pre-commit=3.5.0
-  - python=3.12.0
-  - ruff=0.4.8
+  - python=3.12.2
+  - ruff=0.3.5
+  - lmfit=1.3.1
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - matplotlib=3.8.4
+  - pybaselines=1.1.0
+  - imageio=2.33.1
+  - scikit-learn=1.5.1
+  - scipy=1.13.1
+  - jupyterlab=4.3.5
+  - pip:
+    - arcadia-pycolor==0.5.1
+    - ipympl==0.9.6
+    - ipywidgets==8.1.5

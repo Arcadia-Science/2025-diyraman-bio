@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="463.99896pt" height="463.99896pt" viewBox="0 0 463.99896 463.99896" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-02-06T14:36:09.981858</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 463.99896 
+L 463.99896 463.99896 
+L 463.99896 0 
+L 0 0 
+L 0 463.99896 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 100.494531 397.284897 
+L 443.99896 397.284897 
+L 443.99896 20 
+L 100.494531 20 
+L 100.494531 397.284897 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m7e1f9a2ee4" d="M 0 0 
+L 0 5 
+" style="stroke: #000000; stroke-width: 0.75"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7e1f9a2ee4" x="181.997447" y="397.284897" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: middle" x="181.997447" y="417.797397" transform="rotate(-0 181.997447 417.797397)">600</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m7e1f9a2ee4" x="275.498924" y="397.284897" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: middle" x="275.498924" y="417.797397" transform="rotate(-0 275.498924 417.797397)">620</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m7e1f9a2ee4" x="369.000401" y="397.284897" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: middle" x="369.000401" y="417.797397" transform="rotate(-0 369.000401 417.797397)">640</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font: 500 15px &quot;Suisse Int&apos;l&quot;, sans-serif; text-anchor: middle" x="272.246746" y="441.209898" transform="rotate(-0 272.246746 441.209898)">Peak center (nm)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="m7de7bac15d" d="M 0 0 
+L -5 0 
+" style="stroke: #000000; stroke-width: 0.75"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="352.343573" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="357.599823" transform="rotate(-0 90.494531 357.599823)">−0.01</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="287.129974" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="292.386224" transform="rotate(-0 90.494531 292.386224)">0.00</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="221.916375" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="227.172625" transform="rotate(-0 90.494531 227.172625)">0.01</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="156.702776" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="161.959026" transform="rotate(-0 90.494531 161.959026)">0.02</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="91.489177" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="96.745427" transform="rotate(-0 90.494531 96.745427)">0.03</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7de7bac15d" x="100.494531" y="26.275578" style="stroke: #000000; stroke-width: 0.75"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 14.5px &quot;Suisse Int&apos;l Mono&quot;; text-anchor: end" x="90.494531" y="31.531828" transform="rotate(-0 90.494531 31.531828)">0.04</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font: 500 15px &quot;Suisse Int&apos;l&quot;, sans-serif; text-anchor: middle" x="30.875" y="208.642449" transform="rotate(-90 30.875 208.642449)">Error (nm)</text>
+    </g>
+   </g>
+   <g id="line2d_10">
+    <defs>
+     <path id="mf10a1c912a" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p3562661413)">
+     <use xlink:href="#mf10a1c912a" x="113.216917" y="33.973515" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="126.784028" y="281.72021" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="156.206715" y="284.828992" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="216.730542" y="316.987391" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="226.92604" y="324.678166" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="248.812543" y="379.907103" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="258.429815" y="352.921791" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="283.508501" y="383.311383" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="306.533834" y="356.396736" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="324.445501" y="347.840039" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="338.286891" y="369.501836" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="361.032964" y="308.244399" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="370.009323" y="347.068947" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="418.904444" y="146.966055" style="fill: #5088c5"/>
+     <use xlink:href="#mf10a1c912a" x="431.276574" y="72.603047" style="fill: #5088c5"/>
+    </g>
+   </g>
+   <g id="line2d_11">
+    <path d="M 100.494531 287.129974 
+L 443.99896 287.129974 
+" clip-path="url(#p3562661413)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #f28360"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.494531 397.284898 
+L 100.494531 20 
+" style="fill: none; stroke: #000000; stroke-width: 0.75; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 100.494531 397.284897 
+L 443.99896 397.284897 
+" style="fill: none; stroke: #000000; stroke-width: 0.75; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3562661413">
+   <rect x="100.494531" y="20" width="343.504429" height="377.284898"/>
+  </clipPath>
+ </defs>
+</svg>
