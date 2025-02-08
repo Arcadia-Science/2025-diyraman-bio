@@ -48,7 +48,9 @@ The data shared here is collected on the DIY spontaneous Raman system at Arcadia
 * [data/](./data/): Data for each sample presented in the pub. It contains folders for raw data (meaning as acquired on the spectrometer) and processed (meaning calibrated or otherwise modified) These are organized into subfolders for each date. 
 * [notebooks/](./notebooks/): Jupyter notebooks for gnenerating calibration correction equations and plotting processed data to generate the figures shown in the pub.
 * [scripts/](./scripts/): Python scripts for applying calibration correction to acquired data and generating quick plots. 
-* [envs/](./envs): This repository uses conda to manage software installations and versions. 
+* [envs/](./envs): This repository uses conda to manage software installations and versions.
+* [figures/](./figures): Base images used for the figures in the pub. The final pub figures are edited in Adobe Illustrator. 
+* [spectral_library/](./spectral_library): The spectral library includes peak positions for all samples collected in this pub. 
 * [`LICENSE`](./LICENSE): License specifying the re-use terms for the code in this repository.
 * [`README.md`](./README.md): File outlining the contents of this repository and how to use them.
 * * [.github/](./.github), [.vscode/](./.vscode), [.gitignore](./.gitignore), [.pre-commit-config.yaml](./.pre-commit-config.yaml), [Makefile](./Makefile), [pyproject.toml](./Makefile): Files that control the development environment of the repository.
