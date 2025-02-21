@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This repository accompanies the pub, "DIY Raman spectroscopy for biological research." It contains the data acquired and analyzed in this effort, Jupyter notebooks for calibration and figure generation, and a summary of data from the spectral library.
+This repository accompanies the pub, "DIY Raman spectroscopy for biological research." It contains the data acquired and analyzed in this effort, Jupyter notebooks for calibration and figure generation, a Python script for applying calibration to raw data, and a summary of data from the spectral library.
 
 ## Installation and Setup
 
