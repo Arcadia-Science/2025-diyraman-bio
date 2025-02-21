@@ -1,5 +1,4 @@
 # APPLY CALIBRATION
-# last updated 2025-01-31
 
 # The DIY Raman system used in this project typically needs daily calibration to minimize the
 # peak positional error in the Raman spectra. This script applies the calibration from the
