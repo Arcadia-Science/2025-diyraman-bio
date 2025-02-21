@@ -11,9 +11,8 @@ This repository accompanies the pub, "DIY Raman spectroscopy for biological rese
 This repository uses conda to manage software environments and installations. You can find operating system-specific instructions for installing miniconda [here](https://docs.conda.io/projects/miniconda/en/latest/). After installing conda and [mamba](https://mamba.readthedocs.io/en/latest/), run the following command to create the pipeline run environment.
 
 ```{bash}
-TODO: Replace <NAME> with the name of your environment
-mamba env create -n <NAME> --file envs/dev.yml
-conda activate <NAME>
+mamba env create -n 2025-diyraman-bio --file envs/dev.yml
+conda activate 2025-diyraman-bio
 ```
 
 <details><summary>Developer Notes (click to expand/collapse)</summary>
