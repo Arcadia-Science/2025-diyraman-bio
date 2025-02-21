@@ -66,7 +66,7 @@ The data shared here is collected on the DIY spontaneous Raman system at Arcadia
 >    *   data/processed/performance:
 >        - summary files that contain the mean error, stdev error, max difference, and min difference between each peak in the calibrant spectra compared to reference literature (CSV)
 >        - plots showing error across the spectrum for both calibrants (SVG)
-> 3.  Run the apply_calibration.py script. This applies the calibration correction equations generated in the previous to your sample data of interest. Select the calibration files for acetonitrile and neon that most closely match the acquisition parameters for your sample data. This generates calibrated data files (CSV) and plots of the calibrated data (PNG) in the data/processed/processed_data folder. 
+> 3.  Run the apply_calibration.py script. This applies the calibration correction equations generated in the previous to your sample data of interest. Select the calibration files for acetonitrile and neon that most closely match the acquisition parameters for your sample data. This generates calibrated data files (CSV) and plots of the calibrated data (PNG) in the data/processed/processed_data folder. These data can be compared to published references or other instrument data. 
 
 ### Compute Specifications
 
