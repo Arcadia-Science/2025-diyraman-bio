@@ -68,13 +68,6 @@ The data shared here is collected on the DIY spontaneous Raman system at Arcadia
 >        - plots showing error across the spectrum for both calibrants (SVG)
 > 3.  Run the apply_calibration.py script. This applies the calibration correction equations generated in the previous to your sample data of interest. Select the calibration files for acetonitrile and neon that most closely match the acquisition parameters for your sample data. This generates calibrated data files (CSV) and plots of the calibrated data (PNG) in the data/processed/processed_data folder. 
 
-> Example:
->
-> 1.  Download scripts using `download.ipynb`.
-> 2.  Preprocess using `./preprocessing.sh -a data/`
-> 3.  Run Snakemake pipeline `snakemake --snakefile Snakefile`
-> 4.  Generate figures using `pub/make_figures.ipynb`.
-
 ### Compute Specifications
 
 We executed this project on an Apple MacBook Pro machine running macOS Sonoma version 14.5. The machine has 36 GB memory and an Apple M3 Max chip, though this specific configuration is not required for running the calibration and analysis. 
