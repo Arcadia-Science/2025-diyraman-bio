@@ -1,6 +1,7 @@
 [project]
-name = "TODO: Tool name"
-description = "TODO: Tool description"
+name = "2025-diyraman-bio"
+description = "Repository associated with the pub 'DIY Raman spectroscopy for biological research'"
+authors = ["Sunanda Sharma <sunanda.sharma@arcadiascience.com>"]
 version = "0.0.0"
 readme = "README.md"
 requires-python = ">=3.12"
